@@ -1,0 +1,13 @@
+h1, p {
+  font-family: Lato;
+  text-align: center;
+}
+
+#SacarTurno{
+  text-align: left;
+}
+
+#AdministrarTurnos{
+  text-align: right;
+}
+
